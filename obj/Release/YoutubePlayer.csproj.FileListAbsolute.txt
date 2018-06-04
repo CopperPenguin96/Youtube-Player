@@ -1,0 +1,10 @@
+F:\Documents\Programming\Projects\YoutubePlayer\bin\Release\YoutubePlayer.dll
+F:\Documents\Programming\Projects\YoutubePlayer\bin\Release\YoutubePlayer.pdb
+F:\Documents\Programming\Projects\YoutubePlayer\bin\Release\Geckofx-Core.dll
+F:\Documents\Programming\Projects\YoutubePlayer\bin\Release\Geckofx-Winforms.dll
+F:\Documents\Programming\Projects\YoutubePlayer\bin\Release\Geckofx-Core.pdb
+F:\Documents\Programming\Projects\YoutubePlayer\bin\Release\Geckofx-Winforms.pdb
+F:\Documents\Programming\Projects\YoutubePlayer\obj\Release\YoutubePlayer.YoutubePlayer.resources
+F:\Documents\Programming\Projects\YoutubePlayer\obj\Release\YoutubePlayer.csproj.GenerateResource.Cache
+F:\Documents\Programming\Projects\YoutubePlayer\obj\Release\YoutubePlayer.dll
+F:\Documents\Programming\Projects\YoutubePlayer\obj\Release\YoutubePlayer.pdb
