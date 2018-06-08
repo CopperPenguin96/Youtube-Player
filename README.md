@@ -23,4 +23,4 @@ I've recently noticed a need in one of my projects for a youtube player. To make
 
 ## Screenshots
 
-![VS Designer](https://imgur.com/a/ZW8xX5I)
+![VS Designer](https://i.imgur.com/RdfxwV3.png)
