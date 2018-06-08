@@ -1,6 +1,6 @@
 # Youtube Player
 
->> Current Version: 1.0.1
+>> Current Version: 1.0.2
 
 ## About This Project
 Youtube Player is a windows form control designed to play youtube videos right there in your windows form. It is very simple and easy to use.
