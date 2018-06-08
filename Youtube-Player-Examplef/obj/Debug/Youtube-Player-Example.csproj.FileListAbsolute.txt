@@ -1,0 +1,17 @@
+F:\Documents\Programming\Projects\Youtube-Player\Youtube-Player-Examplef\bin\Debug\Firefox\mozglue.dll
+F:\Documents\Programming\Projects\Youtube-Player\Youtube-Player-Examplef\bin\Debug\Firefox\xul.dll
+F:\Documents\Programming\Projects\Youtube-Player\Youtube-Player-Examplef\bin\Debug\Youtube-Player-Examplef.exe.config
+F:\Documents\Programming\Projects\Youtube-Player\Youtube-Player-Examplef\bin\Debug\Youtube-Player-Examplef.exe
+F:\Documents\Programming\Projects\Youtube-Player\Youtube-Player-Examplef\bin\Debug\Youtube-Player-Examplef.pdb
+F:\Documents\Programming\Projects\Youtube-Player\Youtube-Player-Examplef\bin\Debug\YoutubePlayer.dll
+F:\Documents\Programming\Projects\Youtube-Player\Youtube-Player-Examplef\bin\Debug\Geckofx-Winforms.dll
+F:\Documents\Programming\Projects\Youtube-Player\Youtube-Player-Examplef\bin\Debug\Geckofx-Core.dll
+F:\Documents\Programming\Projects\Youtube-Player\Youtube-Player-Examplef\bin\Debug\YoutubePlayer.pdb
+F:\Documents\Programming\Projects\Youtube-Player\Youtube-Player-Examplef\bin\Debug\Geckofx-Winforms.pdb
+F:\Documents\Programming\Projects\Youtube-Player\Youtube-Player-Examplef\bin\Debug\Geckofx-Core.pdb
+F:\Documents\Programming\Projects\Youtube-Player\Youtube-Player-Examplef\obj\Debug\Youtube-Player-Example.csprojResolveAssemblyReference.cache
+F:\Documents\Programming\Projects\Youtube-Player\Youtube-Player-Examplef\obj\Debug\Youtube_Player_Examplef.Form1.resources
+F:\Documents\Programming\Projects\Youtube-Player\Youtube-Player-Examplef\obj\Debug\Youtube_Player_Examplef.Properties.Resources.resources
+F:\Documents\Programming\Projects\Youtube-Player\Youtube-Player-Examplef\obj\Debug\Youtube-Player-Example.csproj.GenerateResource.Cache
+F:\Documents\Programming\Projects\Youtube-Player\Youtube-Player-Examplef\obj\Debug\Youtube-Player-Examplef.exe
+F:\Documents\Programming\Projects\Youtube-Player\Youtube-Player-Examplef\obj\Debug\Youtube-Player-Examplef.pdb
