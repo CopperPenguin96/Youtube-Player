@@ -24,3 +24,7 @@ I've recently noticed a need in one of my projects for a youtube player. To make
 ## Screenshots
 
 ![VS Designer](https://i.imgur.com/RdfxwV3.png)
+![The control in action on a live form](https://i.imgur.com/eaqRV8d.png)
+![The project in refrences](https://i.imgur.com/c7uNDux.png)
+![The control in the toolbox](https://i.imgur.com/Zx5412h.png)
+![The properties for the control with the VideoID property highlighted](https://i.imgur.com/IgtIY29.png)
