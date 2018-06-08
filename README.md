@@ -10,13 +10,13 @@ To use this control, you must first reference the youtube player dll in your pro
 
 ### Via Code
 import YoutubePlayer;
-public void InitPlayer()
-{
-	Player videoPlayer = new VideoPlayer();
-	videoPlayer.VideoID = "Some_video_id";
-	this.Controls.Add(videoPlayer);
-	// Viola! Player is added
-}
+> public void InitPlayer()
+> {
+>	Player videoPlayer = new VideoPlayer();
+>	videoPlayer.VideoID = "Some_video_id";
+>	this.Controls.Add(videoPlayer);
+>	// Viola! Player is added
+> }
 
 ## Why This Project?
 I've recently noticed a need in one of my projects for a youtube player. To make my project more clean and organized, I decided to make this control to make things easier. I hope it comes handy to someone else who will need it.
