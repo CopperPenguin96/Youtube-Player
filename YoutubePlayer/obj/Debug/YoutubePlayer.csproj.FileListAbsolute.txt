@@ -12,15 +12,32 @@ F:\Documents\Programming\Projects\Youtube Player\YoutubePlayer\bin\Debug\Firefox
 F:\Documents\Programming\Projects\Youtube Player\YoutubePlayer\bin\Debug\Firefox\mozglue.dll
 F:\Documents\Programming\Projects\Youtube Player\YoutubePlayer\obj\Debug\YoutubePlayer.Properties.Resources.resources
 F:\Documents\Programming\Projects\Youtube Player\YoutubePlayer\obj\Debug\YoutubePlayer.Player.resources
-F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\bin\Debug\Firefox\mozglue.dll
-F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\bin\Debug\Firefox\xul.dll
+F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\bin\Debug\firefox\AccessibleMarshal.dll
+F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\bin\Debug\firefox\breakpadinjector.dll
+F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\bin\Debug\firefox\d3dcompiler_47.dll
+F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\bin\Debug\firefox\freebl3.dll
+F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\bin\Debug\firefox\icudt58.dll
+F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\bin\Debug\firefox\icuin58.dll
+F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\bin\Debug\firefox\icuuc58.dll
+F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\bin\Debug\firefox\lgpllibs.dll
+F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\bin\Debug\firefox\libEGL.dll
+F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\bin\Debug\firefox\libGLESv2.dll
+F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\bin\Debug\firefox\mozglue.dll
+F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\bin\Debug\firefox\nss3.dll
+F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\bin\Debug\firefox\nssckbi.dll
+F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\bin\Debug\firefox\nssdbm3.dll
+F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\bin\Debug\firefox\plugin-container.exe
+F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\bin\Debug\firefox\plugin-hang-ui.exe
+F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\bin\Debug\firefox\sandboxbroker.dll
+F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\bin\Debug\firefox\softokn3.dll
+F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\bin\Debug\firefox\xul.dll
+F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\bin\Debug\firefox\omni.ja
 F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\bin\Debug\YoutubePlayer.dll
 F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\bin\Debug\YoutubePlayer.pdb
 F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\bin\Debug\Geckofx-Core.dll
 F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\bin\Debug\Geckofx-Winforms.dll
 F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\bin\Debug\Geckofx-Core.pdb
 F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\bin\Debug\Geckofx-Winforms.pdb
-F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\obj\Debug\YoutubePlayer.csprojResolveAssemblyReference.cache
 F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\obj\Debug\YoutubePlayer.Player.resources
 F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\obj\Debug\YoutubePlayer.Properties.Resources.resources
 F:\Documents\Programming\Projects\Youtube-Player\YoutubePlayer\obj\Debug\YoutubePlayer.csproj.GenerateResource.Cache
